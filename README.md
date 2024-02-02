@@ -14,7 +14,6 @@ Webpage that allows the user to search for the weather details in any city and g
 ![](img/one.png)
 ![](img/two.png)
 ![](img/three.png)
-![](img/four.png)
 
 ### Built with
 
@@ -31,5 +30,5 @@ Webpage that allows the user to search for the weather details in any city and g
 ## Author
 
 - Author - [Ambe Mbong-Nwi Nchang](https://github.com/Ambe-Mbong-Nwi)
-- Source Code - [Github](https://github.com/Ambe-Mbong-Nwi/Shecodes_Hosting_Challenge)
-- Hosting - [Netlify](https://dreamy-semifreddo-71c770.netlify.app/)
+- Source Code - [Github](https://github.com/Ambe-Mbong-Nwi/Shecodes_Weather_Forcast)
+- Hosting - [Netlify](https://genuine-halva-ed4b7f.netlify.app/)
